@@ -2,12 +2,19 @@
 
 > :mega: jQuery is not neccessary now! The name it's just legacy.
 
+
+
+## Adapted for Brazilian money
+
+http://localhost/jQuery-SlotMachine/indexMoneyBR.html
+
+
 A simple, and lightweight piece of code to make slot machine animation effect.
 It also exports a js wrapper to allow the usage with jQuery.
 
 To preview what you can do [check the example page!](http://josex2r.github.io/jQuery-SlotMachine/)
 
-![slot-machine](./img/slot-machine.gif)
+![slot-machine](./img/slot-machine-BR.png)
 
 ## Installation
 
